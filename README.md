@@ -1,1 +1,1 @@
-<img src='./assets/print4.PNG'>
+<img src='./assets/print4.png'>
